@@ -1,0 +1,23 @@
+{
+  "name": "mainichi-issues",
+  "version": "1.0.0",
+  "description": "Make the issues I would like to resolve every day as automatically way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "issues",
+    "problems"
+  ],
+  "author": "Phan Công Thắng",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thangphan37/mainichi-issues"
+  },
+  "homepage": "https://github.com/thangphan37/mainichi-issues#readme",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
